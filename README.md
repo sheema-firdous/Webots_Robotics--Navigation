@@ -59,3 +59,14 @@ This project implements a robot controller in Webots where the robot first rotat
 Turning 90 degrees Start: 135 Target: 45 Final coordinate: [0.141, 0.141] Current position: [0.0, 0.0, 0.0] ... Goal reached. Final position: [0.1409, 0.1408, 0.0]
 
 ---
+
+---
+
+## 👩‍💻 Developers Information
+
+Developed by **[Sheema Firdous](https://www.linkedin.com/in/sheema-firdous-67b9b8181/)**  
+as part of the **Cognitive Systems and Robotics** module assessment  at **[Sheffield Hallam University](https://www.shu.ac.uk/)**
+
+Supervised by [Dr. Samuele Vinanzi](https://www.linkedin.com/in/samuelevinanzi/)
+
+This project demonstrates the practical application of VISION in Cognitive and Autonomous robotics using Webots and Python.
