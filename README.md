@@ -69,4 +69,4 @@ as part of the **Cognitive Systems and Robotics** module assessment  at **[Sheff
 
 Supervised by [Dr. Samuele Vinanzi](https://www.linkedin.com/in/samuelevinanzi/)
 
-This project demonstrates the practical application of VISION in Cognitive and Autonomous robotics using Webots and Python.
+This project demonstrates the practical application of NAVIGATION in Cognitive and Autonomous robotics using Webots and Python.
